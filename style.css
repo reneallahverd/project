@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 27px;
+}
+#form{
+    width: 45%;
+    height: 830px;
+    background-color: #fff;
+    margin: auto;
+    border-radius: 9%;
+}
+#logInBtn{
+    margin-left: 5%;
+    font-size: 60px;
+}
+.form-group{
+    margin-top: 30px;
+}
+body{
+    background: linear-gradient( #0B88F6 10.94%, #041FFF 45.31%, #060E7B 100%);
+}
+input{
+    width: 80%;
+    background: transparent;
+    border-bottom: 1px solid #525050;
+}
+#logInBtn1{
+    width: 55%;
+    height: 60px;
+    border-radius: 45px;
+    color: #fff;
+    background: #256FFF;
+}
+.logo{
+    width: 51px;
+    height: 51px;
+    opacity: 0.36;
+}
+.logInWith{
+    width: 79px;
+    height: 79px;
+}
